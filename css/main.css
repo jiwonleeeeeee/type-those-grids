@@ -8,6 +8,13 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+  font-size: .9rem;
+  font-weight: normal;
+}
+
 header {
   margin: 1.5rem;
   font-size: 1.8rem;
